@@ -3,7 +3,7 @@
 //7  Types : String,Numbers,Null,Boolean,undefined,symbol,BigInt
 
 const score = 100
-const score = 103.3
+const scorevalue = 103.3
 
 const IsLoggedIn = false
 const outsidetemp = null
